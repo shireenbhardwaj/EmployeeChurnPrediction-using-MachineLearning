@@ -4,7 +4,8 @@
 
 Employee retention is a crucial concern for organizations. This project applies machine learning to predict employee churn, helping businesses take proactive steps to improve retention and reduce turnover costs. Using exploratory data analysis, feature engineering, and predictive modeling, this project uncovers key insights that drive employee attrition.
 
-Use this link to get a hands-on experience and check if your employee may stay or leave: [Link]([url](https://employee-churn-prediction-using-ml.streamlit.app/))
+Use this link to get a hands-on experience and check if your employee may stay or leave: [Employee Churn Prediction App](https://employee-churn-prediction-using-ml.streamlit.app/)
+
 
 ### 🎯 Key Features
 
